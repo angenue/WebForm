@@ -1,0 +1,64 @@
+body {
+    background-color: #EBF3FD; 
+    margin: 0;
+    font-family: Arial, sans-serif; 
+}
+
+.bg-gray, .bg-gray:focus, .bg-gray:hover {
+background-color: #ECECEC;
+}
+
+.title {
+    font-size: 40px;
+    font-family: "ABeeZee", sans-serif;
+    font-weight: 600;
+}
+
+
+.abeezee-regular {
+    font-family: "ABeeZee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .abeezee-regular-italic {
+    font-family: "ABeeZee", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+
+
+  .container-fluid {
+    position: relative;
+}
+
+.buttons {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+}
+
+.button {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+
+.red {
+    background-color: #F85F80;
+}
+
+.yellow {
+    background-color: #ABEBC9;
+}
+
+.green {
+    background-color: #FFE4C1;
+}
+
+  
+
+
+
